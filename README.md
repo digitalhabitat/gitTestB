@@ -5,7 +5,7 @@
 ## This is will be extremly disorganize at first
 
 testing out draw.io github integration
-<a href="http://digitalhabitat.github.io/gitTestB/.html" target="hardware_system_diagram.html">self-editing.html</a> is a HTML file with embedded diagrams. The file uses nanocms.js for GitHub I/O and diagram editing, and Bootstrap and nanocms.css for some fancy CSS styles. HTML is used as a container for mutiple diagrams in different formats, including inline SVG with links.
+<a href="https://github.com/digitalhabitat/gitTestB/blob/new-feature/hardware_system_diagram.html" target="hardware_system_diagram.html">self-editing.html</a> is a HTML file with embedded diagrams. The file uses nanocms.js for GitHub I/O and diagram editing, and Bootstrap and nanocms.css for some fancy CSS styles. HTML is used as a container for mutiple diagrams in different formats, including inline SVG with links.
 
 
 Getting started with git from command line
